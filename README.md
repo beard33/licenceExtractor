@@ -1,4 +1,4 @@
-# licenceExtractor ![GitHub top language](https://img.shields.io/github/languages/top/beard33/licenceExtractor.svg)
+# licenceExtractor ![GitHub top language](https://img.shields.io/github/languages/top/beard33/licenceExtractor.svg) ![GitHub](https://img.shields.io/github/license/beard33/licenceExtractor.svg)
 This simple script allows you to retrieve your windows licence from a linux environment looking for it inside the ACPI tables.
 
 ## How to use
