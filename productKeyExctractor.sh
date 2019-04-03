@@ -14,9 +14,9 @@ rm ./tmp.txt
 if ! [ -z $1 ]; then
 	case $input in
 		"-h")
-			echo""
+			echo ""
 			echo "USAGE  $0 and optional"
-			echo""
+			echo ""
 			echo "       -h to print help"
 			echo "       -f to cat license in a productKey.txt file"
 		;;
