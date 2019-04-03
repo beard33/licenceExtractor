@@ -8,16 +8,16 @@ In order to use the script you have to:
 ```
 chmod +x ./productKeyExtractor.sh
 ```
-* Execute the script 
+* Execute the script **as root**
 ```
-./productKeyExtractor.sh
+sudo ./productKeyExtractor.sh
 ```
 
 ## Options
 The script allows two execution mode:
 * The first one *without* the `-f` flag, printing the retrieved key on the stdout
 ```
-user@host ./productKeyExtractor.sh
+user@host sudo ./productKeyExtractor.sh
 [sudo] password for user:
 
 XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
